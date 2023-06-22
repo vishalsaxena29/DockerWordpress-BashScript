@@ -1,6 +1,8 @@
 # DockerWordpress-BashScript
 Script works with the LEMP stack along with the wordpress , nginx , mysql installation with user input for sitename. 
 
+Clone the Entire Repo in a folder and then follow the instructions.
+
 For Running the Script and I have used the AWS t2.micro ubuntu instance 
 Please open security group ports 80 , 8000 and 8080 and rest script will take care.
 
